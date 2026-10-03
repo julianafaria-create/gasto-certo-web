@@ -1,0 +1,74 @@
+body {
+    background-color: #f4f8f4;
+    color: #4a4a4a;
+}
+
+.bg-gradient-primary {
+    background: linear-gradient(180deg, #1b5e20 0%, #2e7d32 100%) !important;
+}
+
+.sidebar .sidebar-brand {
+    height: auto;
+    padding: 20px 10px;
+}
+
+.sidebar .nav-item .nav-link {
+    color: #e8f5e9;
+}
+
+.sidebar .nav-item .nav-link i {
+    color: #c8e6c9;
+}
+
+.sidebar .nav-item .nav-link:hover {
+    background-color: rgba(255, 255, 255, 0.12);
+    color: #ffffff;
+}
+
+.topbar {
+    background-color: #ffffff !important;
+}
+
+.text-primary {
+    color: #2e7d32 !important;
+}
+
+.btn-primary {
+    background-color: #2e7d32 !important;
+    border-color: #2e7d32 !important;
+}
+
+.btn-primary:hover {
+    background-color: #1b5e20 !important;
+    border-color: #1b5e20 !important;
+}
+
+.card {
+    border: none;
+    border-radius: 12px;
+}
+
+.card-header {
+    background-color: #e8f5e9;
+    color: #1b5e20;
+    font-weight: bold;
+}
+
+a {
+    color: #2e7d32;
+}
+
+a:hover {
+    color: #1b5e20;
+}
+.sidebar .nav-item .nav-link {
+    color: #e8f5e9 !important;
+}
+
+.sidebar .nav-item .nav-link i {
+    color: #ffffff !important;
+}
+
+.sidebar .nav-item .nav-link span {
+    color: #ffffff !important;
+}
